@@ -9,4 +9,4 @@ Next.js: 13.5.4<br>
 React: 18系<br>
 
 # References
-[これからはじめるReact実践入門 コンポーネントの基本からNext.jsによるアプリ開発まで](https://www.shuwasystem.co.jp/book/9784798047492.html)<br>
+[これからはじめるReact実践入門 コンポーネントの基本からNext.jsによるアプリ開発まで]([https://www.shuwasystem.co.jp/book/9784798047492.html](https://amzn.asia/d/g1pWry1)https://amzn.asia/d/g1pWry1)<br>
